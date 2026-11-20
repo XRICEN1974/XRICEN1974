@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "XRICEN1974",
-  "seed": "#00BCD4",
+  "seed": "#00FFFF",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -21,17 +21,21 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "Cybersecurity learner exploring Linux, Python, and networking.",
+    "subtitle": "Cybersecurity • Developer • Learner",
     "typing": true,
     "avatarShape": "gem",
     "chips": [
       {
-        "icon": "terminal",
-        "label": "Linux"
+        "icon": "location_on",
+        "label": "Earth"
       },
       {
         "icon": "code",
-        "label": "Python · Networking"
+        "label": "TypeScript · Python"
+      },
+      {
+        "icon": "star",
+        "label": "Learn"
       }
     ]
   },
@@ -39,16 +43,20 @@
     "title": "About me",
     "items": [
       {
-        "icon": "security",
-        "label": "Cybersecurity learner"
+        "icon": "shield",
+        "label": "Cybersecurity Enthusiast"
       },
       {
-        "icon": "terminal",
-        "label": "Learning Linux and networking"
+        "icon": "desktop_windows",
+        "label": "Developer (Web / System / Security)"
       },
       {
-        "icon": "code",
-        "label": "Building projects and documenting progress"
+        "icon": "book_ribbon",
+        "label": "Always Learning New Things "
+      },
+      {
+        "icon": "language",
+        "label": "Anime | LN | Tech | Japanese"
       }
     ]
   },
@@ -56,19 +64,31 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Currently learning",
+        "title": "Language",
         "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
           {
             "icon": "brand:python",
             "label": "Python"
           },
           {
-            "icon": "terminal",
-            "label": "Linux"
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
           },
           {
-            "icon": "lan",
-            "label": "Networking"
+            "icon": "brand:javascript",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
           }
         ]
       },
@@ -80,8 +100,45 @@
             "label": "Git"
           },
           {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:kalilinux",
+            "label": "Kali Linux "
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
             "icon": "code",
-            "label": "GitHub"
+            "label": "VS Code"
+          }
+        ]
+      },
+      {
+        "title": "Other ",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch linux"
           }
         ]
       }
@@ -100,7 +157,7 @@
     "contributions": "Contributions this year",
     "repos": "Public repos",
     "followers": "Followers",
-    "calendar": "Recent activity",
+    "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
     "showLanguages": true
@@ -114,6 +171,18 @@
   "socials": {
     "items": [
       {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      },
+      {
         "icon": "brand:github",
         "url": "https://github.com/XRICEN1974"
       }
@@ -125,10 +194,16 @@
   "buttons": {
     "items": [
       {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "https://github.com/XRICEN1974?tab=repositories",
-        "style": "filled"
+        "url": "",
+        "style": "tonal"
       }
     ]
   }
