@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "XRICEN1974",
-  "seed": "#BBD2DA",
-  "seedFromAvatar": true,
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -23,7 +23,7 @@
     "name": "",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "gem",
     "chips": [
       {
         "icon": "location_on",
@@ -128,6 +128,10 @@
       {
         "icon": "brand:x",
         "url": "https://x.com/"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/XRICEN1974"
       }
     ],
     "variant": "chip",
