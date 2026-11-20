@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "XRICEN1974",
-  "seed": "#5C7CFF",
+  "seed": "#00BCD4",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Cybersecurity learner exploring Linux, Python, and networking.",
     "typing": true,
     "avatarShape": "gem",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "terminal",
+        "label": "Linux"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Python · Networking"
       }
     ]
   },
@@ -39,16 +39,16 @@
     "title": "About me",
     "items": [
       {
-        "icon": "person",
-        "label": "Developer and designer"
+        "icon": "security",
+        "label": "Cybersecurity learner"
+      },
+      {
+        "icon": "terminal",
+        "label": "Learning Linux and networking"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Building projects and documenting progress"
       }
     ]
   },
@@ -56,19 +56,19 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "Currently learning",
         "items": [
-          {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "terminal",
+            "label": "Linux"
+          },
+          {
+            "icon": "lan",
+            "label": "Networking"
           }
         ]
       },
@@ -80,12 +80,8 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "code",
+            "label": "GitHub"
           }
         ]
       }
@@ -104,7 +100,7 @@
     "contributions": "Contributions this year",
     "repos": "Public repos",
     "followers": "Followers",
-    "calendar": "Last 21 days",
+    "calendar": "Recent activity",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
     "showLanguages": true
@@ -118,18 +114,6 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
-      },
-      {
         "icon": "brand:github",
         "url": "https://github.com/XRICEN1974"
       }
@@ -141,16 +125,10 @@
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
-        "style": "tonal"
+        "url": "https://github.com/XRICEN1974?tab=repositories",
+        "style": "filled"
       }
     ]
   }
